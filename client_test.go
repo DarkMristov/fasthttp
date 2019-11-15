@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/valyala/fasthttp/fasthttputil"
+	"github.com/DarkMristov/fasthttp/fasthttputil"
 )
 
 func TestClientURLAuth(t *testing.T) {
